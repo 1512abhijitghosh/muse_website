@@ -11,34 +11,34 @@ function Cards() {
           <ul className="cards__items">
             <CardItem
               src="images/img-9.jpg"
-              text="Muse Social Work"
-              label="Adventure"
-              path="/services"
+              text="Muse Social Work - Development of Rural India, Empowerment of Woman and child"
+              label="Social Work"
+              path="/aboutus"
             />
             <CardItem
               src="images/img-2.jpg"
               text="Muse Art & Crafts College"
-              label="Luxury"
-              path="/services"
+              label="Art College"
+              path="/college"
             />
           </ul>
           <ul className="cards__items">
             <CardItem
               src="images/img-3.jpg"
               text="Muse Bamboo Mission"
-              label="Mystery"
-              path="/services"
+              label="Bamboo production House"
+              path="/bamboo"
             />
             <CardItem
               src="images/img-4.jpg"
-              text="Experience Football on Top of the Himilayan Mountains"
-              label="Adventure"
-              path="/products"
+              text="Muse E-Commerce"
+              label="ECom"
+              path="/ecom"
             />
             <CardItem
               src="images/img-8.jpg"
-              text="Ride through the Sahara Desert on a guided camel tour"
-              label="Adrenaline"
+              text="Muse Achievement"
+              label="Our Achievement"
               path="/sign-up"
             />
           </ul>
