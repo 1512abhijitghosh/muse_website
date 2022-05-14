@@ -16,7 +16,7 @@ function Cards() {
               path="/socialwork"
             />
             <CardItem
-              src="images/img-2.jpg"
+              src="images/college.jpg"
               text="Muse Academy of Art & Crafts"
               label="Art College"
               path="/college"
@@ -27,7 +27,7 @@ function Cards() {
               src="images/bambooproduct.jpg"
               text="Muse Bamboo Mission"
               label="Bamboo production House"
-              path="/bamboo"
+              path="/bamboomission"
             />
             <CardItem
               src="images/ecom.jpg"

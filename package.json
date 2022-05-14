@@ -17,6 +17,10 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1512abhijitghosh/musewebsite.git"
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
