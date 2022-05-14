@@ -10,29 +10,29 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="images/img-9.jpg"
+              src="images/socialwork.jpg"
               text="Muse Social Work - Development of Rural India, Empowerment of Woman and child"
               label="Social Work"
-              path="/aboutus"
+              path="/socialwork"
             />
             <CardItem
               src="images/img-2.jpg"
-              text="Muse Art & Crafts College"
+              text="Muse Academy of Art & Crafts"
               label="Art College"
               path="/college"
             />
           </ul>
           <ul className="cards__items">
             <CardItem
-              src="images/img-3.jpg"
+              src="images/bambooproduct.jpg"
               text="Muse Bamboo Mission"
               label="Bamboo production House"
               path="/bamboo"
             />
             <CardItem
-              src="images/img-4.jpg"
+              src="images/ecom.jpg"
               text="Muse E-Commerce"
-              label="ECom"
+              label="ECom - Coming Soon..."
               path="/ecom"
             />
             <CardItem

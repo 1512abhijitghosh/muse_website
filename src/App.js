@@ -7,6 +7,10 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Services from './components/pages/Services';
 import Products from './components/pages/Products';
 import SignUp from './components/pages/SignUp';
+import College from './components/pages/College';
+import Socialwork from './components/pages/Socialwork';
+import ContactUs from './components/pages/ContactUs';
+import ECom from './components/pages/ECom';
 
 function App() {
   return (
@@ -18,6 +22,10 @@ function App() {
           <Route path="/aboutus" component={AboutUs} />
           <Route path="/products" component={Products} />
           <Route path="/sign-up" component={SignUp} />
+          <Route path="/college" component={College} />
+          <Route path="/socialwork" component={Socialwork} />
+          <Route path="/contactus" component={ContactUs} />
+          <Route path="/ecom" component={ECom} />
         </Switch>
       </Router>
     </>
